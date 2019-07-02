@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<university>
+    <departments title = "Computer Science">
+        <students>
+            <student>
+                <name>
+                    Fozi
+                </name>
+                <id>
+                    1527
+                </id>
+                <age>
+                    66
+                </age>
+            </student>
+            <student>
+                <name>
+                    sara
+                </name>
+                <id>
+                    1677
+                </id>
+                <age>
+                    67
+                </age>
+            </student>
+            <student>
+                <name>
+                    ali
+                </name>
+                <id>
+                    1566
+                </id>
+                <age>
+                    77
+                </age>
+            </student>
+        </students>
+    </departments>
+</university>

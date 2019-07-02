@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<university>
+    <department title="computer science">
+        <student>
+            <name>student1</name>
+            <age>20</age>
+            <courses>Web</courses>
+        </student>
+
+         <student>
+            <name>student2</name>
+            <age>21</age>
+            <courses>MPL</courses>
+        </student>
+
+         <student>
+            <name>student3</name>
+            <age>22</age>
+            <courses>MPL,WEB</courses>
+        </student>
+    </department>
+</university>
